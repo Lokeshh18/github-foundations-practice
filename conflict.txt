@@ -1,1 +1,1 @@
-git is powerfull
+Git is powerful and flexible.
