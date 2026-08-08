@@ -1,1 +1,1 @@
-Git is powerful and easy to learn.
+Git is powerful, flexible, and easy to learn.
